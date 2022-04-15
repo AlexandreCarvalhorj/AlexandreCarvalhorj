@@ -1,6 +1,6 @@
 - 👋 Olá, sou Alexandre Carvalho!
-- 👀 Estou interestedo em continuar evoluindo tecnicologicamente.
-- 🌱 Atualmente estudando Java e JavaScript...
+- 👀 Estou interessado em continuar evoluindo tecnicologicamente.
+- 🌱 Atualmente estudando JavaScript...
 - 💞️ Graduado em Análise e desenvolvimento de Sistemas pela faculdade FAEL.
 - 📫 Linkedin: https://www.linkedin.com/in/alexandre-souza-de-carvalho-52a71b131/
 
